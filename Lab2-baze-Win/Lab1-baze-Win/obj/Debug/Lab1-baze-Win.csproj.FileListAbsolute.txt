@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Lab1-baze-Win\Lab1-baze-Win\bin\Debug\Lab1-baze-Win.exe.config
+C:\Users\user\source\repos\Lab1-baze-Win\Lab1-baze-Win\bin\Debug\Lab1-baze-Win.exe
+C:\Users\user\source\repos\Lab1-baze-Win\Lab1-baze-Win\bin\Debug\Lab1-baze-Win.pdb
+C:\Users\user\source\repos\Lab1-baze-Win\Lab1-baze-Win\obj\Debug\Lab1-baze-Win.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Lab1-baze-Win\Lab1-baze-Win\obj\Debug\Lab1_baze_Win.Properties.Resources.resources
+C:\Users\user\source\repos\Lab1-baze-Win\Lab1-baze-Win\obj\Debug\Lab1-baze-Win.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Lab1-baze-Win\Lab1-baze-Win\obj\Debug\Lab1-baze-Win.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Lab1-baze-Win\Lab1-baze-Win\obj\Debug\Lab1-baze-Win.exe
+C:\Users\user\source\repos\Lab1-baze-Win\Lab1-baze-Win\obj\Debug\Lab1-baze-Win.pdb
+C:\Users\user\source\repos\Lab1-baze-Win\Lab1-baze-Win\obj\Debug\Lab1_baze_Win.Form1.resources
